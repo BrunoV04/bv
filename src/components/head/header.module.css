@@ -1,0 +1,22 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top:20px;
+}
+
+.logo h2{
+ font-family: "Montserrat", sans-serif;
+ font-weight: 800;
+ font-size:42px;
+ color:#332e2c;
+}
+
+.btn{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size:14px;
+    color:#332e2c;
+    padding:0px 6px;
+    text-decoration: none;
+}
