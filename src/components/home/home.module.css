@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    justify-content:center;
+    margin-top:80px;
+    align-items: center;
+}
+
+.title{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size:42px;
+    color:#332e2c;
+}

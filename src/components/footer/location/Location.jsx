@@ -1,13 +1,14 @@
 import locationCss from './location.module.css'
-import ubic from '../assets/ubic.svg'
+import wsp from '../assets/wsp.svg'
+import { Link } from 'react-router-dom';
 const Location = () => {
 return(
-    <>
+    <Link to="https://api.whatsapp.com/send?phone=543424234616">
     <div className={locationCss.card}>
-        <img src={ubic} className={locationCss.ubic}/>
-    <p className={locationCss.text}>MY LOCATION</p>
+        <img src={wsp} className={locationCss.ubic}/>
+    <p className={locationCss.text}>LET'S TALK</p>
     </div>
-    </>
+    </Link>
 )
 }
 

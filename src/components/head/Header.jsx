@@ -14,7 +14,6 @@ const Header = () => {
 <Link className={headerCss.btn} to="/">HOME</Link>
 <Link className={headerCss.btn} to="/">I'AM</Link>
 <Link className={headerCss.btn} to="/">PORFOLIO</Link>
-<Link className={headerCss.btn} to="/">LET'S TALK</Link>
 </div>
         </div>
         </div>
