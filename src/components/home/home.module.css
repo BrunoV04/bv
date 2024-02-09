@@ -11,3 +11,26 @@
     font-size:42px;
     color:#332e2c;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+    .card{
+        margin-top:20px;
+        flex-direction: column;
+    }
+  }
