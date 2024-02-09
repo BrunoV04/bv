@@ -8,7 +8,7 @@ const Header = () => {
         <div className="container-fluid">
         <div className={headerCss.head}>
 <div className={headerCss.logo}>
-<Link to="/"><h2>bv.</h2></Link>
+<Link to="/" className={headerCss.enlace}><h2>bv.</h2></Link>
 </div>
 <div className={headerCss.nav}>
 <Link className={headerCss.btn} to="/">HOME</Link>

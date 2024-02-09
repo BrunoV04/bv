@@ -5,12 +5,16 @@
     padding-top:20px;
 }
 
+.enlace{
+    text-decoration: none;
+}
+
 .logo h2{
  font-family: "Montserrat", sans-serif;
  font-weight: 800;
  font-size:42px;
  color:#332e2c;
- text-decoration: none;
+ 
 }
 
 .btn{

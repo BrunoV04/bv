@@ -5,10 +5,11 @@ const Home = () => {
     return(
         <div className="container">
         <div className={homeCss.card}>
-            <div className="col-md-4">
-            <h1 className={homeCss.title}>Hello, my name is Bruno</h1>
+            <div className="col-md-3">
+            <h1 className={homeCss.title}>
+I am a strategic partner to digitize your business 🤙</h1>
             </div>
-            <div className="col-md-8">
+            <div className="col-md-9">
                 <Card/>
             </div>
             </div>
