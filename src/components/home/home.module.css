@@ -33,4 +33,8 @@
         margin-top:20px;
         flex-direction: column;
     }
+
+    .title{
+        margin-left:20px;
+    }
   }

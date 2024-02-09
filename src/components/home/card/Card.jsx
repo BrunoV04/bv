@@ -40,7 +40,7 @@ const Card = () => {
     return (
         <div className={cardCss.card}>
             <div className={cardCss.img}>
-                <img src={images[currentIndex]} />
+                <img className={cardCss.imgSize} src={images[currentIndex]} />
             </div>
             <div className={cardCss.base}>
                 <h6 className={cardCss.category}>HOME</h6>
